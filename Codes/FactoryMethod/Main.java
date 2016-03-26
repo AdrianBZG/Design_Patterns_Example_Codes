@@ -1,3 +1,9 @@
+/**
+ * @Author Rudolf Cicko & Adrián Rodríguez Bazaga
+ * @Description Demo class to get an object of a concrete class by passing
+ * an information such as type
+ */
+
 package es.ull.esit.pai.exposition.FactoryMethod;
 
 public class Main {
