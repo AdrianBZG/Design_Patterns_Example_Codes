@@ -1,6 +1,6 @@
 package es.ull.esit.pai.exposition.Composite;
 
-public class Main {
+public class CompositeMain {
 	public static void main (String[] args) {
 		Composite root = new Composite ("root");
 		root.add(new Element ("Element A"));

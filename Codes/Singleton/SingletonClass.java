@@ -2,7 +2,7 @@ package es.ull.esit.pai.exposition.Singleton;
 
 /**
  * @version 0.0.1
- * @author Rudolf Cicko & Adrián Bazaga Ramón Rodríguez
+ * @author Rudolf Cicko & Adrián Bazaga Rodríguez
  * @Description Example of Singleton class
  *
  */
@@ -21,6 +21,7 @@ public class SingletonClass {
 	 */
 	public static SingletonClass getInstance() {
 		if (instance == null) {
+			System.out.println ("Creating SingletonClass..");
 			instance = new SingletonClass();
 		}
 		else {
