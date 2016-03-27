@@ -1,8 +1,8 @@
 package es.ull.esit.pai.exposition.Composite;
 
-public class Element extends Component {
+public class Leaf extends Component {
 
-	public Element (String name) {
+	public Leaf (String name) {
 		super (name);
 	}
 	@Override
