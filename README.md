@@ -1,8 +1,8 @@
 # Design Patterns: Example Codes
 
-This repo stores the Java codes and UML diagrams of the examples used for the lecture about "Design Patterns" by Adrián Rodríguez Bazaga and Rudolf Cicko, in University of La Laguna, Monday 28 March 2016, in the subject "Development of Interactive Applications (Programación de Aplicaciones Interactivas)"
+This repo stores the Java codes and UML diagrams of the examples used for the lecture about "Design Patterns" by Adrián Rodríguez Bazaga and Rudolf Cicko, Monday 28 March 2016, for the subject "Development of Interactive Applications (Programación de Aplicaciones Interactivas)"
 
-Contact emails: arodriba@ull.edu.es (Adrián) / alu0100824780@ull.edu.es (Rudolf)
+Contact emails: adrian@qmindgroup.com (Adrián) / alu0100824780@ull.edu.es (Rudolf)
 
 # Download
 
